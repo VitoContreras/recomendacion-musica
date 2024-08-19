@@ -6,3 +6,5 @@ Created on Sun Aug 18 20:14:46 2024
 """
 
 print("aqui no hay nada")
+
+print("ahora si cambiamos algo")
